@@ -5,4 +5,4 @@ Disallow: /js/
 Disallow: /theme/
 Disallow: 404.html
 
-Sitemap: http://ee.eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.ee/sitemap.xml
+Sitemap: http://999999999999999999999999999999999999999999999999999999999999999.one/sitemap.xml
